@@ -9,7 +9,9 @@
             "email": "mcalafellsmx@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "marc-calafell/hello-world-package": "dev-master"
+    },
 
     "autoload": {
         "psr-4": {"MarcCalafell\\": "src/"}

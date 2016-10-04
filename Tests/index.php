@@ -1,9 +1,9 @@
 <?php
 
-require "../vendor/autoload.php";
+require '../vendor/autoload.php';
 
 use MarcCalafell\hello;
 
-$hello = new say();
+$hello = new hello();
 
 echo $hello->say();
