@@ -1,0 +1,13 @@
+{
+    "name": "marc-calafell/hello-world-package",
+    "description": "dummy hello world package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marc",
+            "email": "mcalafellsmx@gmail.com"
+        }
+    ],
+    "require": {}
+}
