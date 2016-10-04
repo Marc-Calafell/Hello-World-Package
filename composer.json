@@ -9,5 +9,10 @@
             "email": "mcalafellsmx@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+
+    "autoload": {
+        "psr-4": {"MarcCalafell\\": "src/"}
+
+    }
 }

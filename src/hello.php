@@ -11,7 +11,7 @@ namespace MarcCalafell;
 
 class hello
 {
-    public function hello(){
+    public function say(){
         return 'Hello World';
     }
 }
